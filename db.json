@@ -1,0 +1,66 @@
+{
+  "useres": [
+    {
+      "id": 1,
+      "email": "admin",
+      "password": "123",
+      "role": "admin"
+    },
+    {
+      "id": 2,
+      "password": "1234",
+      "role": "mahasiswa",
+      "absen": [
+        {
+          "id": 1,
+          "tanggal": "2021-05-12",
+          "picked": "hadir",
+          "picked2": "hadir",
+          "gambar": "gambar"
+        },
+        {
+          "id": 2,
+          "tanggal": "2021-11-20",
+          "picked": "Hadir",
+          "gambar": "https://cdn.kibrispdr.org/data/wallpaper-aesthetic-hd-0.jpg"
+        },
+        {
+          "id": 3,
+          "tanggal": "2021-11-18",
+          "picked": "Hadir",
+          "gambar": "-12"
+        },
+        {
+          "id": 4,
+          "tanggal": "2021-11-21",
+          "picked": "Hadir",
+          "gambar": "mahasiswa"
+        },
+        {
+          "id": 5,
+          "tanggal": "2021-11-20",
+          "picked": "Hadir",
+          "gambar": "https://cdn.kibrispdr.org/data/wallpaper-aesthetic-hd-0.jpg"
+        },
+        {
+          "id": 6,
+          "tanggal": "2021-11-20",
+          "picked": "Hadir",
+          "gambar": "          <button type=\"submit\" v-show=\"!updateSubmit\" style=\"margin: auto\">             <b> Add </b>"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "email": "dosen",
+      "password": "12345",
+      "role": "dosen"
+    },
+    {
+      "username": "aku",
+      "password": "asdfg",
+      "role": "siswa",
+      "id": 4
+    }
+  ]
+}
